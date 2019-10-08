@@ -10,4 +10,4 @@ export PS1=$'%m:%~ %{\E[33m%}%#%{\E[0m%} '
 
 export EDITOR=vi
 
-[[ -d $HOME/.zshenv ]] && for e in $HOME/.zshenv/*; do source $e; done
+[[ -d $HOME/.zshenvd ]] && for e in $HOME/.zshenvd/*; do source $e; done
