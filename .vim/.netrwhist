@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/m/home/home3/35/vienama1/unix/hiera-common/Ubuntu'
+let g:netrw_dirhist_2='/etc/dpkg/dpkg.cfg.d'
+let g:netrw_dirhist_3='/m/home/home3/35/vienama1/unix/mesa-19.0.8/build-support'
+let g:netrw_dirhist_4='/etc/lmod/modules'
+let g:netrw_dirhist_5='/etc/lmod'
+let g:netrw_dirhist_6='/m/home/home3/35/vienama1/unix/admin-repos/hiera/nodes'
+let g:netrw_dirhist_7='/l/vienama1/admin-repos/firewall'
