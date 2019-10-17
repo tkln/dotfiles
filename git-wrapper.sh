@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NO_CHECKOUT="git-wrapper.sh deploy.sh add.sh"
+NO_CHECKOUT="git-wrapper.sh deploy.sh add.sh .gitignore"
 
 git update-index --skip-worktree $NO_CHECKOUT
 
