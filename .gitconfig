@@ -32,3 +32,5 @@
 	ff = only
 [color]
 	ui = auto
+[pager]
+    branch = false
